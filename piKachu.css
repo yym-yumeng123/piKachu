@@ -12,11 +12,13 @@ body{
   flex-direction: column;
   height: 100vh;
 }
+/* 代码展示 */
 .code-wrapper{
   flex: 1;
   height: 50vh;
   padding: 10px;
 }
+/* 画面 */
 .preview-wrapper{
   flex: 1;
   height: 50vh;
@@ -25,6 +27,9 @@ body{
   overflow: hidden;
   height: 100%;
 }
+
+
+/* 点击速度 */
 .actions{
   position: absolute;
   top: 0;
